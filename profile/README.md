@@ -1,6 +1,4 @@
-<style>
-
-<span font-family:"https://daedong.s3.ap-northeast-2.amazonaws.com/%EB%8C%80%EB%8F%99%EC%97%AC%EC%A7%80%EB%8F%84+%ED%8F%B0%ED%8A%B8/DXBold.ttf">## DSM 전공 동아리의 모든 것, 대동여지도를 그리다.</span>
+## DSM 전공 동아리의 모든 것, 대동여지도를 그리다.
 
 ![image](https://github.com/Team-jeong-ho-kim/.github/assets/128463508/84cd4415-7f1b-44c2-a21b-3a4b370d975d)
 > 대마고 동아리 여기서 지원하고 도움받자! <br/> dsm 설립 초기부터 존재했던 대동여지도는 2024년 잠깐의 공백기를 가지고 다시 세상 밖으로 나오게 됐습니다.
