@@ -1,6 +1,6 @@
 ## DSM 전공 동아리의 모든 것, 대동여지도를 그리다.
 
-<a href='https://ifh.cc/v-aTSvxT' target='_blank'><img src='https://ifh.cc/g/aTSvxT.jpg' border='0'></a>
+//<a href='https://ifh.cc/v-aTSvxT' target='_blank'><img src='https://ifh.cc/g/aTSvxT.jpg' border='0'></a>
 > 대마고 동아리 여기서 지원하고 도움받자! <br/> dsm 설립 초기부터 존재했던 대동여지도는 2024년 잠깐의 공백기를 가지고 다시 세상 밖으로 나오게 됐습니다.
 
 ### 저희는 이렇게 개발해요
