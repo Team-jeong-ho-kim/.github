@@ -15,3 +15,4 @@
 
 ### 링크
 * Team Kim jeong ho Organization : https://github.com/Team-jeong-ho-kim
+* Daedongyeojido site : https://student.daedongyeojido.site/
